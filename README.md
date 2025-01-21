@@ -8,4 +8,4 @@ I get asked all the time about which tools I use to run my business. Instead of 
 
 If you find any of these tools useful, feel free to use my affiliate links to sign up. It helps support my content creation at no extra cost to you!
 
-Visit the page: [stealmystack.com](https://stealmystack.com)
+[Steal My Stack]](https://steven-the-qa.github.io/steal-my-stack)
