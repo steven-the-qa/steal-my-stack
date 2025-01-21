@@ -6,6 +6,8 @@ Want to know which tools and services I use to run my business? I've put togethe
 
 I get asked all the time about which tools I use to run my business. Instead of explaining it over and over, I created this simple page to share my complete stack. Every tool listed here is one I personally use and recommend.
 
-If you find any of these tools useful, feel free to use my affiliate links to sign up. It helps support my content creation at no extra cost to you!
+If you want to use any of the tools, use the links on the page. I've got an affiliate link on a few of them.
 
-[Steal My Stack]](https://steven-the-qa.github.io/steal-my-stack)
+Thanks for the support!
+
+Now go [steal my stack](https://steven-the-qa.github.io/steal-my-stack)
